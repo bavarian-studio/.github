@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./bavarianstudio_logo_lockup_ruhend_dunkel.svg">
-  <img src="./bavarianstudio_logo_lockup_ruhend_hell.svg" width="360" alt="Bavarian Studio" />
+  <img src="./bavarianstudio_logo_lockup_ruhend_hell.svg" width="720" alt="Bavarian Studio" />
 </picture>
 
 # Bavarian Studio
