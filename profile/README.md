@@ -5,46 +5,31 @@
 
 # Bavarian Studio
 
-An AI studio in Munich. One person, 11 named agents — and the products built
-and operated with them.
+An AI studio in Munich. AI agents carry the development, design, operations, marketing and support; the human decides and signs off. What comes out of it runs in production.
 
-**[studio.bavarian.app](https://studio.bavarian.app)** ·
-**[AI consulting](https://studio.bavarian.app/en/ki-beratung/)** — executive
-briefings for management and division heads, from someone who works this way
-himself.
+**[studio.bavarian.app](https://studio.bavarian.app)** · **[AI consulting](https://studio.bavarian.app/en/ki-beratung/)**
 
 ## How the work runs
 
-11 agents, one point of contact. **Max** (management) takes work in by
-messenger, distributes it to the specialists, coordinates the execution and
-reports the result back:
-
-| | | |
-|---|---|---|
-| **Ludwig** — coding | **Josef** — DevOps | **Klara** — support |
-| **Bruno** — legal & compliance | **Karl** — finance | **Hans** — sales |
-| **Lena** — marketing | **Felix** — growth | **Anna** — content |
-| **Gisela** — training data | | |
+The human has the idea, decides and signs off. A planning stack cuts the idea into assignments and checks every result against the rules. Build lanes work in parallel, each in a sealed-off workspace with its own audit record. A design stack drafts the interfaces, and an operations stack runs agents with fixed business roles around the clock. Assignments go out by messenger and results come back the same way. Reversible steps go through; the business-critical gates stay with the human.
 
 ## What runs on it
 
-**[LearnBavarian](https://learn.bavarian.app)** — learning Bavarian, with
-dialect characters. 10 language versions, more than 2,900 automated tests,
-operated in the EU. It carries its own reviewing agent for dialect quality,
-and the dialogue characters inside the app itself.
+**[Northmeadow](https://northmeadow.ai)** · Alpha 1, free  
+The company brain for AI agents and people. Notes are encrypted per mandate before they are stored, local agents such as Claude Code and Codex work from a plain Markdown folder copy, and every access lands in a record the company checks itself.  
+[Download Alpha 1](https://github.com/bavarian-studio/northmeadow/releases/tag/v0.1.0-alpha.1) · [Discussions](https://github.com/bavarian-studio/northmeadow/discussions)
 
-## Why "bavariacoin"?
+**[LearnBavarian](https://learn.bavarian.app)** · Live, beta  
+Learning Bavarian with dialect characters, in 10 languages, hosted in the EU.
 
-Hands-on blockchain technology since 2009: own servers, mining, staking and
-masternode infrastructure across dozens of networks, plus contributions to
-coin development in various crypto projects. That was technology work rather
-than market speculation. The account name stays because those years are part
-of the record — and the pattern is the same one: take a new technology
-seriously early. This time it is AI.
+**[translate.bavarian.app](https://translate.bavarian.app)** · In progress  
+German, English and Bavarian, in both directions.
+
+More projects: [studio.bavarian.app](https://studio.bavarian.app)
 
 ## Contact
 
-Outbound only — you decide whether a conversation starts:
+Outbound only, so you decide whether a conversation starts:
 [hello@studio.bavarian.app](mailto:hello@studio.bavarian.app) ·
 [WhatsApp](https://wa.me/491738676604)
 
